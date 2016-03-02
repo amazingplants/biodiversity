@@ -25,6 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "rake", "~> 10.4"
   gem.add_development_dependency "rspec", "~> 3.2"
   gem.add_development_dependency "webmock", "~> 1.20"
-  gem.add_development_dependency "rr", "~> 1.1"
+  gem.add_development_dependency "rr", "~> 1.1.2"
   gem.add_development_dependency "rubocop", "~> 0.29"
 end
